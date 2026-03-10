@@ -1,0 +1,21 @@
+ .container {
+  background:linear-gradient(#2A00B7, #42006c);
+} 
+.container_child {
+    margin-top: 100px;
+}
+/* .container_child {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    margin: auto;
+    margin-top: 200PX;
+    width: 600px;
+    padding-bottom: 30px;
+} */
+
+ 
+img {
+    width: 20px;
+    height: 30px;
+} 
